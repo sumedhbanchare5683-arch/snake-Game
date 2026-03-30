@@ -1,0 +1,5 @@
+{
+  "name": "Snake Game Classic",
+  "description": "A classic Snake game built with React and Canvas, featuring score tracking, increasing difficulty, and keyboard controls.",
+  "requestFramePermissions": []
+}
